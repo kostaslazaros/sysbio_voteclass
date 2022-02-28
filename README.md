@@ -1,4 +1,11 @@
-Comparisson study between classifiers on RNA-sequencing dataset. A project for the lesson "Systems Biology".
+# ΣΥΓΚΡΙΣΗ ΑΠΟΔΟΣΗΣ ΤΑΞΙΝΟΜΗΤΩΝ ΣΕ ΔΕΔΟΜΕΝΑ RNA-SEQUENCING
 
-Python 3.9 needed to run the project.
+Εργασία στα πλαίσια του μαθήματος "ΒΙΟΛΟΓΙΑ ΣΥΣΤΗΜΑΤΩΝ".
 
+Διδάσκουσα Καθηγήτρια: Κοντού Παναγιώτα.
+
+Φοιτητής: Λάζαρος Κωνσταντίνος-Παναγιώτης.
+
+Απαιτήσεις:
+
+Python 3.9
